@@ -1,0 +1,8 @@
+{
+  "name": "stocksense-user-backend",
+  "private": true,
+  "scripts": {
+    "dev": "node -e \"console.log('User backend scaffold ready')\"",
+    "start": "node -e \"console.log('User backend scaffold ready')\""
+  }
+}
